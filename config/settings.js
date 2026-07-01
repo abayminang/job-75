@@ -62,7 +62,7 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "happy birthday ya doaterbaik untukmu, maaftidak bisa merayakan secaralangsung dihadapan mu tapi segenap hati ini mengucapkan selamat bertambah usia dan semoga hal-hal baik selalu beriringan dengan mu, aku hanya berharap wanita manis ku ini berhasil mencapai semua impian di hidupnya, serta di lancarkan segala urusannya.",
+  "happy birthday ya doa terbaik untukmu, maaftidak bisa merayakan secaralangsung dihadapan mu tapi segenap hati ini mengucapkan selamat bertambah usia dan semoga hal-hal baik selalu beriringan dengan mu, aku hanya berharap wanita manis ku ini berhasil mencapai semua impian di hidupnya, serta di lancarkan segala urusannya.",
   "semoga semesta selalu memberi kemudahan atas segala usahamu, semoga pundakmu di kuatkan, semoga hatimu selalu dilapangkan atas segala takdir di luar rencanamu, dan semoga kamu selalu di kelilingi orang-orang baik dimanapun kamu berada. i love you so much🤍",
 ];
 
