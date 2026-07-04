@@ -62,8 +62,8 @@
 //    Setiap string adalah satu paragraf.
 //    Bisa ditambah atau dikurangi paragrafnya.                       */
 // const LETTER_PARAGRAPHS = [
-//   "happy birthday ya doa terbaik untukmu, maaf tidak bisa merayakan secara langsung dihadapan mu tapi segenap hati ini mengucapkan selamat bertambah usia dan semoga hal-hal baik selalu beriringan dengan mu, aku hanya berharap wanita manis ku ini berhasil mencapai semua impian di hidupnya, serta di lancarkan segala urusannya.",
-//   "semoga semesta selalu memberi kemudahan atas segala usahamu, semoga pundakmu di kuatkan, semoga hatimu selalu dilapangkan atas segala takdir di luar rencanamu, dan semoga kamu selalu di kelilingi orang-orang baik dimanapun kamu berada. i love you so much🤍",
+//   "Happy birthday ya, doa terbaik untukmu. Maaf tidak bisa merayakan secara langsung di hadapanmu, tapi segenap hati ini mengucapkan selamat bertambah usia dan semoga hal-hal baik selalu beriringan denganmu. Aku hanya berharap wanita manisku ini berhasil mencapai semua impian di hidupnya, serta dilancarkan segala urusannya.",
+//   "Semoga semesta selalu memberi kemudahan atas segala usahamu, semoga pundakmu dikuatkan, semoga hatimu selalu dilapangkan atas segala takdir di luar rencanamu, dan semoga kamu selalu dikelilingi orang-orang baik di mana pun kamu berada. I love you so much 🤍",
 // ];
 
 // /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
